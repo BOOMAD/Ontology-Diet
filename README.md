@@ -1,2 +1,2 @@
-# Ontology-Diet
+# Ontology "Diet"
 protege ontology diet
